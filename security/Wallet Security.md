@@ -10,7 +10,29 @@ This chapter focuses therefore on information security in the general sense. It 
 
 ## Why it is important
 
-- talk about risk of loss and theft
+As a bitcoin owner, you face the risks of your coins being either stolen or lost. Properly securing your bitcoins prevents or reduces this risk from happening. 
+
+#### Risk of Theft
+
+As a bitcoin holder, there exists a chance that your bitcoins might get stolen. There have been cases of exchanges getting hacked, in person attacks, bitcoin ransom, phishing, fake crypto wallets and exchanges, etc. The risk of theft can be prevented by:
+
+- Investing in cold storage options
+
+- Not storing your private keys on internet accessible platforms
+
+- Being cautious about who you tell about your bitcoins
+
+- Being cautious about your environment when using your wallet
+
+  
+
+#### Risk of Loss
+
+This is usually as a result misplaced private keys, damaged or lost cold storage devices, forgotten encryption passwords, etc. Loss could be prevented by:
+
+- Metal sheets in place of paper to store private keys
+
+- backing up your passwords
 
   
 
